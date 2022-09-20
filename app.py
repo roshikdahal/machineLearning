@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route("/",methods=['GET','POST'])
 def index():
-    return "Hello welcome to ML projects"
+    return "Bebe!! I love you so much"
 
 
 
